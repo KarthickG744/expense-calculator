@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExpenseCalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF9F0A</item>
+        <item name="colorPrimaryVariant">#FF9F0A</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="android:windowBackground">#121212</item>
+        <item name="android:statusBarColor">#1E1E1E</item>
+        <item name="android:navigationBarColor">#1E1E1E</item>
+    </style>
+</resources>
